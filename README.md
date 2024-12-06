@@ -1,3 +1,4 @@
 <h1>Online_Closet</h1>
 
-<p>This is an application created using python(django) and html that gives users a place to store all their clothing/accessories. It allows the user to input the name, color, and offers 7 categories to sort their items into. The application is easily edited to store other information such as inventory, contact lists, or other information. </p>
+An application that allows users to store clothing or other inventory items into one place. The application allows the user to sort their items into categories and edit/delete items after adding them. It can also be altered to send alerts when the quantity/stock of an item is too low. This application integrated User Authentication, User Registration, and Item Editing/Deleting into the application. It was programmed using Python with Django and HTML
+
